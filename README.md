@@ -1,2 +1,2 @@
 # escriba
-A minimal Qt text editor
+A minimal text editor made with Qt
